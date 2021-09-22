@@ -1,4 +1,5 @@
 
+
 public class Board {
     private int sizeX;
     private int sizeY;
