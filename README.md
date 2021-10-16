@@ -23,6 +23,11 @@ getters and setters in Java
 Tasks
 OOP
 
+![bs2](https://user-images.githubusercontent.com/70142353/137590859-e6ee381f-7a7a-468c-a4a0-052df745062f.jpg)
+
+
+
+
 Gain good understanding of the OOP principles and implement them in your code.
 The program does not use static contexts.
 Classes are grouped in packages.
